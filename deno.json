@@ -7,13 +7,5 @@
     "@std/assert": "jsr:@std/assert@1",
     "graphql": "npm:graphql@^16.10.0",
     "mongodb": "npm:mongodb@^6.12.0"
-  },
-  "deploy": {
-    "project": "a283ec38-9bdf-48f1-8f6c-f152776d7b5c",
-    "exclude": [
-      "**/node_modules"
-    ],
-    "include": [],
-    "entrypoint": "main.ts"
   }
 }
